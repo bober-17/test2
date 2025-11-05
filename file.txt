@@ -1,1 +1,4 @@
 Go programm
+
+new 
+new
